@@ -5,32 +5,77 @@
     <description>Living macro intelligence brief — thread updates and analysis</description>
     <link>index.html</link>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>2026-04-05 10:25 UTC</lastBuildDate>
+    <lastBuildDate>2026-04-05 10:56 UTC</lastBuildDate>
     
     <item>
-        <title>[ESCALATING] Iran's Geopolitical Impact on Commodities — Stock and oil markets remain volatile amid Iran conflict fears</title>
-        <description><![CDATA[Experts warn that prolonged elevated oil and gas prices could increase the cost of goods and services. The continued volatility in stock markets and commodities is linked to concerns over the potential duration of the Iran conflict.]]></description>
-        <link>thread/57ebe57b-1b4d-400b-a6ea-60bafd4d08b9.html</link>
-        <guid isPermaLink="false">a67f432e-7bc8-4a21-824a-91f78dbe669e</guid>
-        <pubDate>Sun, 05 Apr 2026 10:21:29 +0000</pubDate>
+        <title>[DEVELOPING] US Trade Policy & Tariffs — Convergence detected: US Trade Policy & Tariffs × Iran-Gulf Military Conflict</title>
+        <description><![CDATA[The escalation of the Iran-Gulf military conflict is leading to elevated oil and gas prices, contributing to inflationary pressures. This complicates the Federal Reserve's efforts to manage inflation, which is already being impacted by U.S. trade policies and tariffs.]]></description>
+        <link>thread/de1dd867-8f0e-4937-8baf-56058e0031db.html</link>
+        <guid isPermaLink="false">c7911638-05c0-428c-9bf2-7a5be37dc16f</guid>
+        <pubDate>Sun, 05 Apr 2026 10:53:23 +0000</pubDate>
+        <category>convergence</category>
+    </item>
+    
+    <item>
+        <title>[ESCALATING] Iran-Gulf Military Conflict — Convergence detected: Iran-Gulf Military Conflict × US Trade Policy & Tariffs</title>
+        <description><![CDATA[The escalation of the Iran-Gulf military conflict is leading to elevated oil and gas prices, contributing to inflationary pressures. This complicates the Federal Reserve's efforts to manage inflation, which is already being impacted by U.S. trade policies and tariffs.]]></description>
+        <link>thread/ff28b3f3-c401-4f10-b342-74c57b600c02.html</link>
+        <guid isPermaLink="false">7a1ea70f-1b14-4de4-8f08-a36378e5d4e6</guid>
+        <pubDate>Sun, 05 Apr 2026 10:53:23 +0000</pubDate>
+        <category>convergence</category>
+    </item>
+    
+    <item>
+        <title>[DEVELOPING] US Trade Policy & Tariffs — New York Fed's Williams highlights domestic impact of tariffs</title>
+        <description><![CDATA[New York Fed President John Williams stated that the burden of tariffs falls 'overwhelmingly' on U.S. businesses and consumers. He noted that these tariffs are hindering the Federal Reserve's ability to achieve its 2% inflation target.]]></description>
+        <link>thread/de1dd867-8f0e-4937-8baf-56058e0031db.html</link>
+        <guid isPermaLink="false">862567c1-7fee-4e3e-a248-c5318c2ae1b8</guid>
+        <pubDate>Sun, 05 Apr 2026 10:52:26 +0000</pubDate>
         <category>update</category>
     </item>
     
     <item>
-        <title>[ESCALATING] Iran's Geopolitical Impact on Commodities — Global X suggests increased focus on emerging markets amid Iran conflict</title>
-        <description><![CDATA[Global X has indicated that current geopolitical tensions, particularly the conflict involving Iran, may present an opportunity to increase investment in emerging markets. The ongoing situation is affecting sectors such as equities, commodities, and currencies, suggesting potential shifts in market dynamics.]]></description>
-        <link>thread/57ebe57b-1b4d-400b-a6ea-60bafd4d08b9.html</link>
-        <guid isPermaLink="false">bc336dd6-1a52-414c-a76c-1e24a06818ec</guid>
-        <pubDate>Sun, 05 Apr 2026 10:21:17 +0000</pubDate>
+        <title>[DEVELOPING] China Economic Growth Targets — China to Announce Economic Targets and Policies at Upcoming Policy Meeting</title>
+        <description><![CDATA[Chinese Premier Li Qiang is scheduled to announce economic targets and policies for the upcoming year on Thursday.]]></description>
+        <link>thread/38210e65-0f33-4740-9638-98c4fd1ad917.html</link>
+        <guid isPermaLink="false">79d66f70-a4ac-4ae6-83c5-1d7170e61277</guid>
+        <pubDate>Sun, 05 Apr 2026 10:52:21 +0000</pubDate>
         <category>update</category>
     </item>
     
     <item>
-        <title>[ESCALATING] Iran's Geopolitical Impact on Commodities — UK firms withdraw fixed energy deals amid Iran conflict-driven price surge</title>
-        <description><![CDATA[UK firms have significantly reduced the number of fixed-term energy deals available, with data indicating a more than 50% decline. This reduction is attributed to the surge in wholesale energy prices, driven by the ongoing conflict in Iran. The geopolitical tensions are impacting various sectors, including equities, commodities, and currencies.]]></description>
-        <link>thread/57ebe57b-1b4d-400b-a6ea-60bafd4d08b9.html</link>
-        <guid isPermaLink="false">b3ec4f9f-e553-4711-853c-244235fb188d</guid>
-        <pubDate>Sun, 05 Apr 2026 10:21:04 +0000</pubDate>
+        <title>[ESCALATING] Iran-Gulf Military Conflict — Stock markets and oil prices remain volatile amid Iran conflict fears</title>
+        <description><![CDATA[Experts have warned that continued elevated oil and gas prices could lead to increased costs for goods and services. The volatility in stock markets and commodities persists as concerns over the prolonged Iran conflict continue to influence investor sentiment.]]></description>
+        <link>thread/ff28b3f3-c401-4f10-b342-74c57b600c02.html</link>
+        <guid isPermaLink="false">dca236ee-2bde-4030-a182-d0b9dea97723</guid>
+        <pubDate>Sun, 05 Apr 2026 10:52:14 +0000</pubDate>
+        <category>update</category>
+    </item>
+    
+    <item>
+        <title>[DEVELOPING] US Trade Policy & Tariffs — US trade court orders tariff refunds, impacting Trump administration</title>
+        <description><![CDATA[A trade court has authorized refunds for tariffs that were invalidated by the Supreme Court last month. This decision represents a setback for the Trump administration's trade policy, as it undermines efforts to maintain these tariffs.]]></description>
+        <link>thread/de1dd867-8f0e-4937-8baf-56058e0031db.html</link>
+        <guid isPermaLink="false">d4c9da56-eddb-4cc5-93e7-84eb79378633</guid>
+        <pubDate>Sun, 05 Apr 2026 10:52:07 +0000</pubDate>
+        <category>update</category>
+    </item>
+    
+    <item>
+        <title>[DEVELOPING] China Economic Growth Targets — China sets lowest economic growth target since 1991</title>
+        <description><![CDATA[China has set its lowest economic growth target since 1991. This marks the first time the target has been lowered since it was adjusted to 'around 5%' in 2023.]]></description>
+        <link>thread/38210e65-0f33-4740-9638-98c4fd1ad917.html</link>
+        <guid isPermaLink="false">87e823c2-ce13-4e15-b6f0-abfc1d550e4b</guid>
+        <pubDate>Sun, 05 Apr 2026 10:52:00 +0000</pubDate>
+        <category>new</category>
+    </item>
+    
+    <item>
+        <title>[ESCALATING] Iran-Gulf Military Conflict — Global X suggests increased focus on emerging markets amid Iran conflict</title>
+        <description><![CDATA[Global X has indicated that it might be an opportune moment to increase investments in emerging markets.]]></description>
+        <link>thread/ff28b3f3-c401-4f10-b342-74c57b600c02.html</link>
+        <guid isPermaLink="false">f7394906-b325-490e-85d2-9a5f21864656</guid>
+        <pubDate>Sun, 05 Apr 2026 10:51:54 +0000</pubDate>
         <category>update</category>
     </item>
     
