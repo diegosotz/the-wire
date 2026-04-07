@@ -449,6 +449,62 @@ nav a.active {
     font-size: 0.7rem;
 }
 
+/* Source links */
+.source-links {
+    margin-top: 1rem;
+    padding: 0.75rem 1rem;
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+}
+
+.source-links-label {
+    display: block;
+    font-family: var(--font-mono);
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--text-dim);
+    margin-bottom: 0.5rem;
+}
+
+.source-link {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    padding: 0.35rem 0;
+    text-decoration: none;
+    border-bottom: 1px solid var(--border);
+    transition: background 0.15s;
+}
+
+.source-link:last-child {
+    border-bottom: none;
+}
+
+.source-link:hover {
+    background: var(--bg-hover);
+}
+
+.source-link-outlet {
+    font-family: var(--font-mono);
+    font-size: 0.65rem;
+    color: var(--developing);
+    white-space: nowrap;
+    min-width: 8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.source-link-title {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    line-height: 1.4;
+}
+
+.source-link:hover .source-link-title {
+    color: var(--text);
+}
+
 /* Grounding score badges */
 .grounding-badge {
     font-family: var(--font-mono);
